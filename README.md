@@ -1,16 +1,17 @@
-## Hi there 👋
+# Kush Sinha
 
-<!--
-**kushsinha-systems/kushsinha-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gameplay Systems Programmer | Godot | Combat Systems
 
-Here are some ideas to get you started:
+I build combat systems focused on delivering responsive and satisfying gameplay. My work centers on bridging player input and on-screen impact through precise input handling and scalable architecture. I focus on designing snappy state machines, fluid animation interactions, and combat mechanics that carry a strong sense of weight and feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***Technical Focus:***
+- **Godot (GDScript)**
+- **Combat Systems:** Hitbox design, frame data, input buffering
+- **System Architecture:** Building scalable and maintainable gameplay systems
+
+***Featured Project:***
+- **Artaxia** – A real-time 1v1 combat system built using a structured, state-driven architecture focused on responsive gameplay
+
+***Currently Exploring:***
+- Adapting combat systems for PvE gameplay scenarios
+- Expanding combat mechanics into full-scale game architecture
